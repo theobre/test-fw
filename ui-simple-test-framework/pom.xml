@@ -22,6 +22,11 @@
             <groupId>io.cyborgcode.roa</groupId>
             <artifactId>ui-interactor-test-framework-adapter</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.40.0</version>
+        </dependency>
     </dependencies>
 
     <dependencyManagement>
